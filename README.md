@@ -2,6 +2,10 @@
 
 A Streamlit application that evaluates user prompts using Google Gemini AI.
 
+## Live Demo
+
+https://prompt-evaluator-fmjtnfnuym9xkjgqpdhevh.streamlit.app/
+
 ## Features
 
 - Prompt quality evaluation
